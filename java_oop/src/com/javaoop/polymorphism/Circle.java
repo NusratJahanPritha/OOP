@@ -1,0 +1,7 @@
+package com.javaoop.polymorphism;
+
+public class Circle extends Shapes{
+    void area(){
+        System.out.println("circle");
+    }
+}
